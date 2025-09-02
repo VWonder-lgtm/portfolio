@@ -315,7 +315,6 @@ position: relative;
   background-position: center;
   background-repeat: no-repeat;
   padding: 40px;  
- width: 500px; 
 }
   .main{
   display: flex;
@@ -479,4 +478,5 @@ border-radius: 4px;
   margin-left: 30px;  
   font-size: small; 
   font-style: italic;
+
 }
